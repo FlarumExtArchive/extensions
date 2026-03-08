@@ -8,6 +8,6 @@ assignees: FlarumExtArchivist
 ---
 
 - Extension Name: 
-- Link on flarum.org/extension : ﻿``
+- Link on flarum.org/extensions : ﻿``
 - Reposatry location (*eg github.com/users/repo*) : ``
 - Are you the extension author?:

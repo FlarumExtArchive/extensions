@@ -8,7 +8,7 @@ assignees: FlarumExtArchivist
 ---
 
 - Extension Name: 
-- Link on flarum.org/extension : ﻿`﻿`
+- Link on flarum.org/extensions : ﻿`﻿`
 - Reposatry location (*eg github.com/users/repo*) : ``
 - You need to be the extension author, are you?:
 - I'm the extension author, proof (if not from same github account):
